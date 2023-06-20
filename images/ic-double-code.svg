@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.787" height="112.787" viewBox="0 0 112.787 112.787">
+  <g id="Group_1476" data-name="Group 1476" transform="translate(-40 0)">
+    <g id="Group_1442" data-name="Group 1442" transform="translate(-161.077 -4372)">
+      <g id="Group_1441" data-name="Group 1441" transform="translate(201.076 4372)">
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="45.926" cy="45.926" r="45.926" transform="translate(10.548 10.548)" fill="#eeedff"/>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(5.68 5.68)" fill="none" stroke="#ada8ff" stroke-width="0.4" opacity="0.6">
+          <circle cx="50.795" cy="50.795" r="50.795" stroke="none"/>
+          <circle cx="50.795" cy="50.795" r="50.595" fill="none"/>
+        </g>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(0 0)" fill="none" stroke="#ada8ff" stroke-width="0.4" opacity="0.361">
+          <circle cx="56.393" cy="56.393" r="56.393" stroke="none"/>
+          <circle cx="56.393" cy="56.393" r="56.193" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_material-format-quote" data-name="Icon material-format-quote" d="M10.7,42.454h9.586l6.391-12.781V10.5H7.5V29.672h9.586Zm25.563,0h9.586l6.391-12.781V10.5H33.063V29.672h9.586Z" transform="translate(66.25 30.119)" fill="#0c429a"/>
+  </g>
+</svg>
